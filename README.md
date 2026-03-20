@@ -31,7 +31,7 @@ location: Kanpur, India
 role: Software Developer
 experience: 7+ Years
 focus: Scientific Computing, Desktop Apps & Web Development
-exploring: Python | Rust | WebGPU | AI/ML | Systems Programming
+exploring: Python | Android | Flutter | WebGPU | AI/ML | Systems Programming
 ```
 
 - 🌱 Currently exploring **Python**, **WebGPU**, and **AI/ML** for scientific computing
