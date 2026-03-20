@@ -1,10 +1,8 @@
-[# 👋 Welcome to MOL Lab
-
-![MOL Lab Banner](https://via.placeholder.com/900x200?text=MOL+Lab+-+Software+Development+Lab)
+[# 👋 Hey There!
 
 ---
 
-## About MOL Lab
+## About Me
 
 MOL Lab is a cutting-edge software development lab specializing in building scalable and efficient solutions.  
 Our mission is to innovate, collaborate, and deliver top-notch software products.
@@ -39,9 +37,9 @@ Our mission is to innovate, collaborate, and deliver top-notch software products
 
 ## 📫 Contact Us
 
-- Email: contact@mol-lab.dev  
+- Email: dwivedi77anurag@gmail.com  
 - Website: [mol-lab.dev](https://mol-lab.dev)  
-- LinkedIn: [linkedin.com/company/mol-lab](https://linkedin.com/company/mol-lab)  
+- LinkedIn: [linkedin.com](https://www.linkedin.com/in/anurag-d-b7027543/)  
 
 ---
 
