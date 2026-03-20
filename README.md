@@ -31,8 +31,7 @@ location: Kanpur, India
 role: Software Developer
 experience: 7+ Years
 focus: Scientific Computing, Desktop Apps & Web Development
-currently_building: MMD Studio — Molecular Dynamics Simulation & Visualization
-exploring: Rust | WebGPU | AI/ML | Systems Programming
+exploring: Python | Rust | WebGPU | AI/ML | Systems Programming
 ```
 
 - 🔭 Creator of **MMD Studio** — a desktop app for molecular dynamics simulation built with **Electron + React + TypeScript + 3DMol.js**
