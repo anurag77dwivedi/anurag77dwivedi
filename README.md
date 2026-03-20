@@ -30,7 +30,7 @@ name: Anurag Dwivedi
 location: Kanpur, India
 role: Software Developer
 experience: 7+ Years
-focus: Scientific Computing, Desktop Apps & Web Development
+focus: Backend Development, Scientific Computing, Desktop Apps & Web Development
 exploring: Python | Android | Flutter | WebGPU | AI/ML | Systems Programming
 ```
 
