@@ -5,7 +5,7 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Anurag+Dwivedi+%F0%9F%91%8B;Software+Developer+%7C+7%2B+Years;Scientific+Computing+Enthusiast;Rust+%7C+React+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Anurag+Dwivedi+%F0%9F%91%8B;Software+Developer+%7C+7%2B+Years;Scientific+Computing+Enthusiast;Python+%7C+React+%7C+TypeScript+%7C+Django" alt="Typing SVG" />
 </h1>
 
 <!-- Social Badges -->
