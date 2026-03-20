@@ -50,7 +50,6 @@ exploring: Python | Rust | WebGPU | AI/ML | Systems Programming
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -100,7 +99,6 @@ exploring: Python | Rust | WebGPU | AI/ML | Systems Programming
 <br/>
 <p>
   <img src="https://img.shields.io/badge/LAMMPS-2C2D72?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/GROMACS-8B0000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/3DMol.js-FF6F00?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgl&logoColor=white" />
   <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
@@ -128,21 +126,6 @@ exploring: Python | Rust | WebGPU | AI/ML | Systems Programming
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧪 MMD Studio</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Coming_Soon-6C63FF?style=for-the-badge&logoColor=white" />
-      </p>
-      <p align="center">
-        A powerful desktop application for <b>molecular dynamics simulation & visualization</b>. Built with Electron, React, TypeScript, and 3DMol.js, integrating LAMMPS & GROMACS engines.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -202,9 +185,6 @@ exploring: Python | Rust | WebGPU | AI/ML | Systems Programming
   </a>
   <a href="https://www.linkedin.com/in/anurag-d-b7027543/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://catalystcode.dev">
-    <img src="https://img.shields.io/badge/Visit_My_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
