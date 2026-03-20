@@ -34,11 +34,9 @@ focus: Scientific Computing, Desktop Apps & Web Development
 exploring: Python | Rust | WebGPU | AI/ML | Systems Programming
 ```
 
-- 🔭 Creator of **MMD Studio** — a desktop app for molecular dynamics simulation built with **Electron + React + TypeScript + 3DMol.js**
-- 🌱 Currently exploring **Rust**, **WebGPU**, and **AI/ML** for scientific computing
-- 🧪 Integrating simulation engines like **LAMMPS** & **GROMACS** into developer-friendly tools
-- 📝 Building educational content at [catalystcode.dev](https://catalystcode.dev)
-- 💬 Ask me about **React, TypeScript, Electron, Scientific Computing, Rust**
+- 🌱 Currently exploring **Python**, **WebGPU**, and **AI/ML** for scientific computing
+- 🧪 Integrating simulation engines like **LAMMPS** into developer-friendly tools
+- 💬 Ask me about **React, TypeScript, Electron, Scientific Computing, Python**
 - ⚡ Fun fact: I bridge the gap between cutting-edge science and modern software engineering
 
 ---
